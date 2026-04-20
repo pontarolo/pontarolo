@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Maven+Pro&weight=600&size=30&pause=1000&color=18274A&center=true&vCenter=true&width=435&lines=%E2%80%A2+Welcome++to+my+profile!+%E2%80%A2" alt="Typing SVG" /></a>
+<img src="./src/github-header-banner.png">
+</div>
 
-<!--
-**pontarolo/pontarolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+<p align="center">Computer Engineering student at the Federal University of Santa Catarina (UFSC). Currently focusing my studies on FPGAs. I am constantly updating my skills and seeking new challenges in the technology field. I have a passion for learning and applying technical knowledge.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+<img align="right" alt="" height="260px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+
+<h3 align="left">My Stack ~</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,linux&theme=dark)](https://skillicons.dev)
